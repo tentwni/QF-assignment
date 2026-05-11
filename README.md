@@ -32,3 +32,22 @@ Python 3 with Finmind, NumPy, SciPy, and Matplotlib.
 
 1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
 2. Run all cells sequentially.
+
+# Assignment 2 — Statistical Decision Theory & Estimation
+
+This assignment covers the following topics:
+
+- **Statistical Decision Theory**: Decision framework on `0050.TW` with state of nature, action space, and loss function.
+- **Decision Scenarios**: Frequentist (momentum), Bayesian (posterior update), and Interventional (stop-loss) strategies vs. buy-and-hold.
+- **Estimation Theory**: Estimation of $(\mu, \sigma)$ for `2330.TW` log returns via MLE, Normal-Inverse-Gamma Bayes, and Huber M-estimation.
+- **Risk Decompositions**: Proofs of the MSE (bias–variance) and excess risk (approximation–estimation) decompositions.
+- **Black-Litterman Model**: Classical Bayesian vs. Minimum Relative Entropy (Entropy Pooling) approaches.
+
+## Tools & Libraries
+
+Python 3 with yfinance, NumPy, SciPy, and Matplotlib.
+
+## How to Run
+
+1. Open the `.ipynb` file in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook.
+2. Run all cells sequentially.
